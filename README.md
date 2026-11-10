@@ -19,3 +19,9 @@
 1. Cloudflare PagesでGitHubリポジトリを接続。
 2. SEO記事の取材・検証、商品リンク確認。
 3. 公開時にnoindexを解除しサイトマップを生成。
+
+## Cloudflare Pages 公開URL（2026-11-10確認）
+- プロジェクト: `chair-guide`
+- URL: https://chair-guide.pages.dev
+- Cloudflare管理画面のプロジェクト一覧スクリーンショットで確認済み。
+- デプロイ履歴あり。HTTPアクセス・表示動作・検索公開状態は別途検証する。
