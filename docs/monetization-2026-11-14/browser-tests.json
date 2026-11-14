@@ -1,0 +1,458 @@
+{
+  "note": "Local Chromium; external images, ads and analytics blocked. This verifies layout, not live network speed or affiliate attribution.",
+  "viewports": [
+    {
+      "repo": "chair-guide",
+      "path": "about.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "about.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "about.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-check.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-check.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-check.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "index.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 3
+    },
+    {
+      "repo": "chair-guide",
+      "path": "index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 3
+    },
+    {
+      "repo": "chair-guide",
+      "path": "index.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 3
+    },
+    {
+      "repo": "chair-guide",
+      "path": "chair-buying-checklist.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 274.546875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 274.546875
+        }
+      ],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "chair-buying-checklist.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 274.546875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 274.546875
+        }
+      ],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "chair-buying-checklist.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-vs-ergohuman-pro2.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 228
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 228
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-vs-ergohuman-pro2.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 228
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 228
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-vs-ergohuman-pro2.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-9-adjustments.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-9-adjustments.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-9-adjustments.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-mesh-material.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-mesh-material.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-mesh-material.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "404.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "404.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "404.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "privacy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "privacy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "privacy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-delivery.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-delivery.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-delivery.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-price-value.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-price-value.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-price-value.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-desk-fit.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-desk-fit.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "chair-guide",
+      "path": "algo-chair-pro-desk-fit.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    }
+  ],
+  "smoke": []
+}

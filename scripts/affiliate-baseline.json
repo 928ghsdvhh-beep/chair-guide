@@ -1,0 +1,48 @@
+{
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "tracking_ids": [],
+  "protected_html_sha256": {
+    "about.html": [],
+    "algo-chair-pro-check.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "index.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "2362e7dbe567c0fb9bc53b84c9b900b08a5569765954a8c84beff76633e3883c",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545",
+      "ad9a8e5a7695dd53050d960aebb2c302fa40c37172260174e915d03957f00e01"
+    ],
+    "chair-buying-checklist.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "algo-chair-pro-vs-ergohuman-pro2.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "algo-chair-pro-9-adjustments.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "algo-chair-pro-mesh-material.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "404.html": [],
+    "privacy.html": [],
+    "algo-chair-pro-delivery.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "algo-chair-pro-price-value.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "algo-chair-pro-desk-fit.html": [
+      "034521be1e1842a444ff6bf6c1fb336400e2a3353bbf91907ff9fd2923336718",
+      "3f1b5a68aefb2e9e96ca15da033b3a59fe3dbf163979f157b8f94ad341a47545"
+    ],
+    "googled51db09eaf8187a0.html": []
+  }
+}
