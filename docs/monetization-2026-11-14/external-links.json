@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.ergohuman.jp/pdf/Ergohuman_Official%20GuideBook2025.pdf",
+    "status": 200,
+    "final_url": "https://www.ergohuman.jp/pdf/Ergohuman_Official%20GuideBook2025.pdf",
+    "content_type": "application/pdf",
+    "pages": [
+      "chair-guide/algo-chair-pro-vs-ergohuman-pro2.html",
+      "chair-guide/algo-chair-pro-desk-fit.html"
+    ]
+  },
+  {
+    "url": "https://review.rakuten.co.jp/item/1/402219_10000035/1.1/",
+    "status": 200,
+    "final_url": "https://review.rakuten.co.jp/item/1/402219_10000035/1.1/",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "chair-guide/algo-chair-pro-price-value.html"
+    ]
+  },
+  {
+    "url": "https://selectia-web.com/algo-chair-review/",
+    "status": 200,
+    "final_url": "https://selectia-web.com/algo-chair-review/",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "chair-guide/algo-chair-pro-price-value.html"
+    ]
+  }
+]

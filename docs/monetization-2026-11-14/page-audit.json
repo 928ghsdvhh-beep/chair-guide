@@ -1,0 +1,232 @@
+{
+  "site": "chair-guide",
+  "pages": 12,
+  "indexable": 11,
+  "sitemap_urls": 11,
+  "issues": [],
+  "page_audit": [
+    {
+      "path": "about.html",
+      "title": "サイトについて｜チェアガイド",
+      "h1": "サイトについて",
+      "description": "チェアガイドの編集方針・広告掲載・情報の確認方法について。",
+      "canonical": "https://chair-guide.pages.dev/about",
+      "noindex": false,
+      "text_characters": 335,
+      "html_bytes": 2507,
+      "schema_types": [
+        "AboutPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-check.html",
+      "title": "ALGO Chair Proを購入する前に確認したい調整機能と設置条件｜チェアガイド",
+      "h1": "ALGO Chair Proを購入する前に確認したい調整機能と設置条件",
+      "description": "ALGO Chair Proを購入する前に確認したい調整機能と設置条件。メーカー公表仕様と購入前の注意点を確認。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-check",
+      "noindex": false,
+      "text_characters": 1270,
+      "html_bytes": 10005,
+      "schema_types": [
+        "Article",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "index.html",
+      "title": "ALGO Chair Proの購入前ガイド｜チェアガイド",
+      "h1": "長く座る椅子だから、<br>購入前に確かめたい。",
+      "description": "ALGO Chair Proの調整機能、価格、配送、組立て、試座条件をメーカー公表情報から整理。高価格帯オフィスチェアの購入前ガイド。",
+      "canonical": "https://chair-guide.pages.dev/",
+      "noindex": false,
+      "text_characters": 1039,
+      "html_bytes": 10360,
+      "schema_types": [
+        "WebSite"
+      ],
+      "internal_links": 11,
+      "affiliate_links": 5,
+      "images": 3,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "chair-buying-checklist.html",
+      "title": "高価格帯オフィスチェアの購入前チェックリスト｜寸法・調整・返品条件｜チェアガイド",
+      "h1": "高価格帯オフィスチェアの購入前チェックリスト｜寸法・調整・返品条件",
+      "description": "高価格帯のオフィスチェアは、機能が多いほど誰にでも合うわけではありません。購入前に、体格・作業環境・配送条件の順に確認するためのチェックリストです。",
+      "canonical": "https://chair-guide.pages.dev/chair-buying-checklist",
+      "noindex": false,
+      "text_characters": 1700,
+      "html_bytes": 10843,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-vs-ergohuman-pro2.html",
+      "title": "ALGO Chair Proとエルゴヒューマン PRO2を比較｜寸法・価格・購入条件｜チェアガイド",
+      "h1": "ALGO Chair Proとエルゴヒューマン PRO2を比較｜寸法・価格・購入条件",
+      "description": "調整機能の多さだけで選ばず、公式に確認できる寸法、試座の機会、組立て、返品条件を比べます。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-vs-ergohuman-pro2",
+      "noindex": false,
+      "text_characters": 1704,
+      "html_bytes": 8724,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-9-adjustments.html",
+      "title": "ALGO Chair Proの9項目調整とは？自分に合う椅子を選ぶ確認ポイント｜チェアガイド",
+      "h1": "ALGO Chair Proの9項目調整とは？自分に合う椅子を選ぶ確認ポイント",
+      "description": "広告主が案内する9項目の調整機能を、体格やデスク環境との相性から整理。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-9-adjustments",
+      "noindex": false,
+      "text_characters": 1411,
+      "html_bytes": 7864,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 8,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-mesh-material.html",
+      "title": "ALGO Chair Proのメッシュ素材とアルミフレーム｜長時間作業で確認したいこと｜チェアガイド",
+      "h1": "ALGO Chair Proのメッシュ素材とアルミフレーム｜長時間作業で確認したいこと",
+      "description": "通気性や素材の特徴と、実際の座り心地を混同しないためのチェックポイント。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-mesh-material",
+      "noindex": false,
+      "text_characters": 1020,
+      "html_bytes": 6459,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "404.html",
+      "title": "ページが見つかりません",
+      "h1": "ページが見つかりませんでした",
+      "description": null,
+      "canonical": null,
+      "noindex": true,
+      "text_characters": 63,
+      "html_bytes": 587,
+      "schema_types": [],
+      "internal_links": 1,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": false
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜チェアガイド",
+      "h1": "プライバシーポリシー",
+      "description": "チェアガイドにおける個人情報・広告・アクセス解析の取り扱いについて。",
+      "canonical": "https://chair-guide.pages.dev/privacy",
+      "noindex": false,
+      "text_characters": 412,
+      "html_bytes": 2776,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-delivery.html",
+      "title": "ALGO Chair Proの配送・組立て・試座は？購入前の注意点｜チェアガイド",
+      "h1": "ALGO Chair Proの配送・組立て・試座は？購入前の注意点",
+      "description": "ALGO Chair Proの配送・組立て・試座は？購入前の注意点。メーカー公式情報をもとに購入前の注意点を整理。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-delivery",
+      "noindex": false,
+      "text_characters": 1223,
+      "html_bytes": 6955,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-price-value.html",
+      "title": "ALGO Chair Proは149,800円に見合う？価格以外に比較したい5つの条件｜チェアガイド",
+      "h1": "ALGO Chair Proは149,800円に見合う？価格以外に比較したい5つの条件",
+      "description": "高価格帯チェアを検討する人向けに、調整・寸法・配送・保証・試座を整理。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-price-value",
+      "noindex": false,
+      "text_characters": 1958,
+      "html_bytes": 9548,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "algo-chair-pro-desk-fit.html",
+      "title": "ALGO Chair Proは自分の机に収まる？寸法と設置スペースの測り方｜チェアガイド",
+      "h1": "ALGO Chair Proは自分の机に収まる？寸法と設置スペースの測り方",
+      "description": "高級チェアで見落としやすいのは、座り心地以前の「机に入るか」「足が床につくか」「背もたれを倒せるか」です。",
+      "canonical": "https://chair-guide.pages.dev/algo-chair-pro-desk-fit",
+      "noindex": false,
+      "text_characters": 939,
+      "html_bytes": 6002,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 2,
+      "affiliate_links": 2,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    }
+  ]
+}
